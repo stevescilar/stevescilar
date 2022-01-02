@@ -1,10 +1,10 @@
-### Hi there 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;developer....)](https://git.io/typing-svg)
 ### I am Stephen a web Dev, i love building Django projects, i enjoy solving technical problems. 
 ### I love poking into 
       -  PHP Frameworks - Laravel,PHPCake,Igniter
       -  C
       
-### I love books and fun of Lao Tzu 😄
+### I love books and a big fan of Lao Tzu 😄
 
 
 - 🔭 I’m currently working on -  smartshop a django ecommerce project
