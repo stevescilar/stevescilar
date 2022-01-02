@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
 ### I am Stephen a web Dev, i love building Django projects, i enjoy solving technical problems. 
+
 ### I love poking into 
       -  PHP Frameworks - Laravel,PHPCake,Igniter
       -  C
@@ -16,3 +17,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&theme=onedark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevescilar&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar)](https://github.com/stevescilar/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stevescilar&theme=react-dark)](https://github.com/stevescilar/github-readme-activity-graph)
