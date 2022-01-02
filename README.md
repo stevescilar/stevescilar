@@ -1,5 +1,4 @@
 ### Hi there 👋 
-
 ### I am Stephen a web Dev, i love building Django projects, i enjoy solving technical problems. 
 ### I love poking into 
       -  PHP Frameworks - Laravel,PHPCake,Igniter
