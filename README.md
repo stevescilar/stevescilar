@@ -9,3 +9,4 @@
 - 💬 Ask me about ... Web Development
 - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar)
