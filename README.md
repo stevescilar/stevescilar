@@ -1,13 +1,15 @@
 <h3 align="center">
-  Welcome to Master Steve's profile!
+  Welcome to  Steve's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
+### I am an ICT Trainer at WTTI -
 ### I enjoy solving technical problems. 
 
 ### I love poking into 
-      -  PHP Frameworks - Laravel,PHPCake,Igniter
+      -  PHP Frameworks - Laravel,
+      -  PHPCake,Igniter
       -  C
       
 ### I love books and a big fan of Lao Tzu 😄
