@@ -19,7 +19,9 @@
 - 🌱 I’m currently learning ... - Vue Js
 - 💬 Ask me about ... Web Development
 - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
-
+###Wakatime
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&theme=onedark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevescilar&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
