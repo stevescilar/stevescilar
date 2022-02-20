@@ -4,8 +4,8 @@
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
-<img src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg" alt="Alternative Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Samurai WakaTime Activity"/>
+<img src="https://github.com/stevescilar/stevescilar/blob/main/images/stat.svg" alt="Alternative Text"/>
+
 ### I am an ICT Trainer at WTTI -
 ### I am also a freelance software dev. 
 
