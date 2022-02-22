@@ -5,21 +5,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
 
-
-### I am an ICT Trainer at WTTI -
-### I am also a freelance software dev. 
-
-### I love poking into 
-      -  PHP Frameworks - Laravel,
-      -  PHPCake,Igniter
-      -  C
+### Web/Software Developer(Django,Python) 
+### I am a part-time ICT Trainer at Wote Technical Training College (wtti)
+### Graphic Designer
+### Fun Laanguages 
+      -  PHP
+      -  CODEIGNITER
       
 ### I love books and a big fan of Lao Tzu 😄
 
 
-- 🔭 I’m currently working on -  smartshop a django ecommerce project
-- 🌱 I’m currently learning ... - Vue Js
-- 💬 Ask me about ... Web Development
+- 🔭 I’m currently working on -  SMART-WAREHOUSE project
+- 🌱 I’m currently learning ... - Vue Js 
+- 💬 Ask me about ... Web Development ^ Graphic Design
 - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
 
 ### Stats
