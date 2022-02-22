@@ -11,7 +11,7 @@
 ### Fun Laanguages 
       -  PHP
       -  CODEIGNITER
-      
+ ### I am a minimalist.    
 ### I love books and a big fan of Lao Tzu 😄
 
 
