@@ -12,6 +12,9 @@
 ### Web/Software Developer(Django,Python) 
 ### 🔭 [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### I am a part-time ICT Trainer at Wote Technical Training College (wtti)
 ### Graphic Designer
 ### Fun Laanguages 
@@ -25,8 +28,7 @@
 - 🌱 I’m currently learning ... - Vue Js 
 - 💬 Ask me about ... Web Development ^ Graphic Design
 - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&theme=onedark&show_icons=true)
