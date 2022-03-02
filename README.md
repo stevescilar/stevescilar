@@ -9,7 +9,8 @@
 
 
 
-### Web/Software Developer(Django,Python) <span> [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) </span>
+### Web/Software Developer(Django,Python) 
+### PERKS [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
 
 ### I am a part-time ICT Trainer at Wote Technical Training College (wtti)
 ### Graphic Designer
