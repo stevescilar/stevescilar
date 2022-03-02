@@ -37,3 +37,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevescilar&theme=onedark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar)](https://github.com/stevescilar/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stevescilar&theme=react-dark)](https://github.com/stevescilar/github-readme-activity-graph)
+
+<figure><embed src="https://wakatime.com/share/@Master_Steve/6d044235-b3e1-4507-8aa0-613db28c680c.svg"></embed></figure>
