@@ -11,10 +11,11 @@
 
 ### Web/Software Developer(Django,Python) 
 ### 🔭 [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
-### Current Project: IbringPos System
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### Current Project: IbringPos System
 ### I am a part-time ICT Trainer at Wote Technical Training College (wtti)
 ### Graphic Designer
 ### Fun Laanguages 
