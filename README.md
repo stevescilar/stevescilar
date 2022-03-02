@@ -15,9 +15,10 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### Current Project: IbringPos System
+
 ### I am a part-time ICT Trainer at Wote Technical Training College (wtti)
 ### Graphic Designer
+### Current Project: IbringPos System
 ### Fun Laanguages 
       -  PHP
       -  CODEIGNITER
