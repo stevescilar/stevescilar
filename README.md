@@ -25,13 +25,13 @@ Markdown     5 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-### I am a part-time ICT Trainer at Wote Technical Training College (wtti)
-### Graphic Designer
+### Systems Developer @ Imaji Cargo Logistics Ltd
+### Graphic Designer & Aspiring motion graphics
 ### Current Project: IbringPos System
 ### Fun Laanguages 
       -  PHP
       -  CODEIGNITER
- ### I am a minimalist.    
+### I am a minimalist.    
 ### I love books and a big fan of Lao Tzu 😄
 
 
