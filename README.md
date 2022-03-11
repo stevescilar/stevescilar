@@ -33,14 +33,14 @@
 > ### Fun Languages 
 >    -  PHP
 >    -  CODEIGNITER
-### I am a minimalist.    
-### I love books and a big fan of Lao Tzu 😄
+> ### I am a minimalist.    
+> ### I love books and a big fan of Lao Tzu 😄
 
 >
-  - 🔭 I’m currently working on -  SMART-WAREHOUSE project
-  - 🌱 I’m currently learning ... - Vue Js 
-  - 💬 Ask me about ... Web Development ^ Graphic Design
-  - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
+> - 🔭 I’m currently working on -  SMART-WAREHOUSE project
+> - 🌱 I’m currently learning ... - Vue Js 
+> - 💬 Ask me about ... Web Development ^ Graphic Design
+> - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
 >
 
 ### Stats
