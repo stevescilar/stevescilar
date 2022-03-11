@@ -11,19 +11,20 @@
 
 ## Web/Software Developer _(Django,Python)_ 
 # Total Time Coded since ***Feb-15-2022*** [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
+>
+ 
+> <!--START_SECTION:waka-->
 
-<!--START_SECTION:waka-->
+  ```text
+  Python       8 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.81 %
+  HTML         7 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
+  Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+  CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+  Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+  Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+  ```
 
-```text
-Python       8 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.81 %
-HTML         7 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
 
 > ### Systems Developer @ Imaji Cargo Logistics Ltd
