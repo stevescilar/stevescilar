@@ -26,12 +26,12 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-### Systems Developer @ Imaji Cargo Logistics Ltd
-### Aspiring Pythonista 🔭
-### Current Project: IbringPos System
-### Fun Languages 
-      -  PHP
-      -  CODEIGNITER
+> ### Systems Developer @ Imaji Cargo Logistics Ltd
+> ### Aspiring Pythonista 🔭
+> ### Current Project: IbringPos System
+> ### Fun Languages 
+>    -  PHP
+>    -  CODEIGNITER
 ### I am a minimalist.    
 ### I love books and a big fan of Lao Tzu 😄
 
