@@ -29,7 +29,7 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 ### Systems Developer @ Imaji Cargo Logistics Ltd
 ### Graphic Designer & Aspiring motion graphics
 ### Current Project: IbringPos System
-### Fun Laanguages 
+### Fun Languages 
       -  PHP
       -  CODEIGNITER
 ### I am a minimalist.    
