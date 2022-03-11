@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to  Steve's profile! 
+  Hi! am Muambi & this is my Coding Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -27,7 +27,7 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 
 
 ### Systems Developer @ Imaji Cargo Logistics Ltd
-### Graphic Designer & Aspiring motion graphics
+### Aspiring Pythonista
 ### Current Project: IbringPos System
 ### Fun Languages 
       -  PHP
