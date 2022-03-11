@@ -10,7 +10,7 @@
 
 
 ### Web/Software Developer(Django,Python) 
-### 🔭 [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
+[![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
 
 <!--START_SECTION:waka-->
 
@@ -27,7 +27,7 @@ Text         1 min           ░░░░░░░░░░░░░░░░░
 
 
 ### Systems Developer @ Imaji Cargo Logistics Ltd
-### Aspiring Pythonista
+### Aspiring Pythonista 🔭
 ### Current Project: IbringPos System
 ### Fun Languages 
       -  PHP
