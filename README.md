@@ -15,16 +15,16 @@
  
  <!--START_SECTION:waka-->
 
-  ```text
-  Python       8 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.81 %
-  HTML         7 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
-  Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-  CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-  Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-  Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-  ```
+```text
+HTML         7 hrs 52 mins   █████████████▓░░░░░░░░░░░   55.09 %
+Python       5 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.18 %
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+CSS          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 > ### Systems Developer @ Imaji Cargo Logistics Ltd
