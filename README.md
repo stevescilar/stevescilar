@@ -34,7 +34,7 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 
 > ### I am a minimalist.    
 > ### I love books and a big fan of Lao Tzu 😄
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevescilar&repo=github-readme-stats)](https://github.com/stevescilar/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevescilar&repo=stevescilar)](https://github.com/stevescilar/stevescilar)
 
 
 >
