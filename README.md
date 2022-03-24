@@ -12,17 +12,7 @@
 # Web/Software Developer _(Django,Python)_ 
 ## Total Time Coded since ***Feb-15-2022*** [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
 >
- 
- <!--START_SECTION:waka-->
 
-```text
-Python       11 hrs 22 mins  ██████████████▒░░░░░░░░░░   57.43 %
-HTML         7 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.72 %
-Text         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-```
-
-<!--END_SECTION:waka-->
 [![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
 
 > ### Systems Developer @ Imaji Cargo Logistics Ltd
