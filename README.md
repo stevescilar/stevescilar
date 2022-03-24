@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
 
 
-[![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
+
 
 
 # Web/Software Developer _(Django,Python)_ 
@@ -23,7 +23,7 @@ Other        7 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+[![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
 
 > ### Systems Developer @ Imaji Cargo Logistics Ltd
 > ### Aspiring Pythonista 🔭
