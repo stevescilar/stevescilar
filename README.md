@@ -1,6 +1,3 @@
-<a href="https://github.com/stevescilar/stevescilar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=stevescilar&repo=stevescilar" />
-</a>
 <h3 align="center">
   Hi! am Muambi & this is my Coding Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
