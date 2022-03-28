@@ -15,7 +15,7 @@
 
 [![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
 
-> ### Systems Developer @ Imaji Cargo Logistics Ltd
+> ### Systems Developer 
 > ### Aspiring Pythonista 🔭
 > ### Current Project: IbringPos System
 > ### Fun Languages 
@@ -28,7 +28,7 @@
 
 
 >
-> - 🔭 I’m currently working on -  SMART-WAREHOUSE project
+> - 🔭 I’m currently working on -   IbringPos System
 > - 🌱 I’m currently learning ... - Vue Js 
 > - 💬 Ask me about ... Web Development ^ Graphic Design
 > - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
