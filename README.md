@@ -1,6 +1,6 @@
 <h3 align="center">
-  Hi! am Muambi & this is my Coding Profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Muambi & this is my Coding Profile
+  
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
