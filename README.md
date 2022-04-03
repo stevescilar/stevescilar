@@ -15,7 +15,7 @@
 
 [![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
 
-> ### Systems Developer 
+> ### Python Systems Developer 
 > ### Aspiring Pythonista 🔭
 > ### Current Project: IbringPos System
 > ### Fun Languages 
