@@ -21,8 +21,9 @@
 > ### Fun Languages 
 >    -  PHP
 >    -  CODEIGNITER
+>    -  Laravel
 
-> ### I am a minimalist.    
+> ### I am a minimalist , Lover of H.G 
 > ### I love books and a big fan of Lao Tzu 😄
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevescilar&repo=stevescilar)](https://github.com/stevescilar/stevescilar)
 
