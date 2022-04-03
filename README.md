@@ -30,7 +30,7 @@
 
 >
 > - 🔭 I’m currently working on -   IbringPos System
-> - 🌱 I’m currently learning ... - Vue Js 
+> - 🌱 I’m currently learning ... - React Js and Postgre
 > - 💬 Ask me about ... Web Development ^ Graphic Design
 > - 📫 Reach me on phone: 0705549257 or email me on stevemuambi@gmail.com
 >
