@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
 
-### Contact me: +254705549257
+### Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 ##
 
 
