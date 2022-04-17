@@ -29,8 +29,9 @@
 > ### I love books and a big fan of Lao Tzu 😄
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevescilar&repo=stevescilar)](https://github.com/stevescilar/stevescilar)
 
-
->
+ 
+> A good traveler has no fixed plans and is not intent on arriving.
+  Lao Tzu
 > - 🔭 I’m currently working on -   IbringPos System
 > - 🌱 I’m currently learning ... - React Js and Postgre
 > - 💬 Ask me about ... Web Development ^ Graphic Design
