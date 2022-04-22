@@ -1,8 +1,8 @@
 <h3 align="center">
   Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I am Steve Muambi & this is my Coding Profile.
-  
-  
+
 </h3>
+![steph](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter) in total 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23135704&lines=Hi!+There+I+am+Stephen.;+A+Django+Web+Developer;Striving+to+become+a+fulltime+;software+developer....)](https://git.io/typing-svg)
 
@@ -27,7 +27,7 @@
 
 > ### I am a minimalist , Lover of H.G 
 > ### I love books and a big fan of Lao Tzu 😄
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stevescilar&repo=stevescilar)](https://github.com/stevescilar/stevescilar)
+
 
  
 > A good traveler has no fixed plans and is not intent on arriving.
@@ -45,4 +45,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar)](https://github.com/stevescilar/github-readme-stats)
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stevescilar&theme=react-dark)](https://github.com/stevescilar/github-readme-activity-graph)
 
+
+
+
+
 <figure><embed src="https://wakatime.com/share/@Master_Steve/6d044235-b3e1-4507-8aa0-613db28c680c.svg"></embed></figure>
+
