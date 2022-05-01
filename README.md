@@ -22,10 +22,10 @@
 > ### Python Systems Developer 
 > ### Aspiring Pythonista 🔭
 > ### Current Project: IbringPos System
-> ### Fun Languages 
->    -  PHP
->    -  CODEIGNITER
->    -  Laravel
+> ### I speak 
+>    -  Python
+>    -  Django
+>    -  React
 
 > ### I am a minimalist , Lover of H.G 
 > ### I love books and a big fan of Lao Tzu 😄
