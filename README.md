@@ -8,9 +8,11 @@
 </p>
 
 
+<p align='center'>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevescilar&count_bg=%23074771&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</p>
 
 ### Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 
