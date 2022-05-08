@@ -28,7 +28,7 @@
 
 > ### Python Systems Developer 
 > ### Aspiring Pythonista 🔭
-> ### Current Project: IbringPos System
+> ### Current Project: School System
 > ### I speak 
 >    -  Python
 >    -  Django
