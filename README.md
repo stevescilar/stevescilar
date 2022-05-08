@@ -19,7 +19,6 @@
 
 <p align='center'>
 
-# Web/Software Developer _(Django,Python)_ 
 ## Code Sprint Since ***Feb-15-2022*** [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
 >
 
