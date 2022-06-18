@@ -27,7 +27,7 @@
 </p>
 
 > ### Python Systems Developer 
-> ### Aspiring Pythonista 🔭
+> ### Pythonista 🔭
 > ### Current Project: School System
 > ### I speak 
 >    -  Python
