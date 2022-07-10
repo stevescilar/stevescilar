@@ -19,7 +19,7 @@
 
 <p align='center'>
 
-## Coding Sprint Since ***Feb-15-2022*** [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
+## Code_Rush Since ***Feb-15-2022*** [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
 >
 
 [![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
@@ -40,7 +40,8 @@
 
  
 > A good traveler has no fixed plans and is not intent on arriving.
-  Lao Tzu
+  Lao Tzu. 
+
 > - 🔭 I’m currently working on -   IbringPos System
 > - 🌱 I’m currently learning ... - React Js and Postgre
 > - 💬 Ask me about ... Web Development & Graphic Design
