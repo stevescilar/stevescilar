@@ -27,8 +27,6 @@
 </p>
 
 > ### Python Systems Developer 
-> ### Pythonista 🔭
-> ### Current Project: School System
 > ### I speak 
 >    -  Python
 >    -  Django
