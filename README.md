@@ -29,7 +29,7 @@
 > ### Python Systems Developer 
 > ### I speak 
 >    -  Python
->    -  Django
+>    -  Django. 
 >    -  React. 
 
 > ### I am a minimalist , Lover of H.G 
