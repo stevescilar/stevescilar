@@ -30,7 +30,7 @@
 > ### I speak 
 >    -  Python
 >    -  Django
->    -  React
+>    -  React. 
 
 > ### I am a minimalist , Lover of H.G 
 > ### I love books and a big fan of Lao Tzu 😄
