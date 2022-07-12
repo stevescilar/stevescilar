@@ -26,7 +26,7 @@
 
 </p>
 
-> ### Python Systems Developer 
+> ### Django systems Developer 
 > ### I speak 
 >    -  Python
 >    -  Django. 
