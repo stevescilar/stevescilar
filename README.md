@@ -45,7 +45,7 @@
 > - 💬 Ask me about ... Web Development & Graphic Design
 >
 -----------------------------------------------------------------------------------------------------------------
-### Stats
+### Stats. 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&theme=cobalt&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevescilar&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
