@@ -27,7 +27,7 @@
 </p>
 
 > ### Django systems Developer 
-> ### I speak 
+> ### I got experience in
 >    -  Python
 >    -  Django. 
 >    -  React. 
