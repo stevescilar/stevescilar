@@ -33,8 +33,7 @@
 >    -  React. 
 
 > ### I am a minimalist , Lover of H.G 
-> ### I love books and a big fan of Lao Tzu 😄
-
+> ### I love books and a big fan of literature 
 
  
 > A good traveler has no fixed plans and is not intent on arriving.
