@@ -39,7 +39,7 @@
 > A good traveler has no fixed plans and is not intent on arriving.
   Lao Tzu. 
 
-> - 🔭 I’m currently working on -   IbringPos System
+> - 🔭 I’m currently working on something interesting 
 > - 🌱 I’m currently learning ... - React Js and Postgre
 > - 💬 Ask me about ... Web Development & Graphic Design
 >
