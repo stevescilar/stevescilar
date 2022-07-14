@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi! There👋 I'm Steve 👨‍💻 The Lone Coder. 
+  Hi! There👋 I'm Steve 👨‍💻 The Lone Coder
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align='center'>
@@ -42,7 +42,7 @@
 > - 🔭 I’m currently working on something interesting 
 > - 🌱 I’m currently learning ... - React Js and Postgre
 > - 💬 Ask me about ... Web Development & Graphic Design
->
+> - i find coding fascinating 
 -----------------------------------------------------------------------------------------------------------------
 ### Stats. 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&theme=cobalt&show_icons=true)
