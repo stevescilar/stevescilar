@@ -28,7 +28,7 @@
 
 > ### Django systems Developer 
 > ### I got experience in
->    -  Python
+>    -  Python. 
 >    -  Django. 
 >    -  React. 
 
