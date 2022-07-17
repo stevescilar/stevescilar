@@ -26,11 +26,12 @@
 
 </p>
 
-> ### Django systems Developer 
+> ### Django systems Developer. 
 > ### I got experience in
 >    -  Python. 
 >    -  Django. 
 >    -  React. 
+
 
 > ### I am a minimalist , Lover of H.G 
 > ### I love books and a big fan of literature 
