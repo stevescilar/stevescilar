@@ -31,6 +31,7 @@
 >    -  Python. 
 >    -  Django. 
 >    -  React. 
+>    -  Laravel PHP
 
 
 > ### I am a minimalist , Lover of H.G 
