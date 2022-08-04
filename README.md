@@ -4,7 +4,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align='center'>
-  Web Developer from Nairobi, Kenya.
+  WEB BASED SYSTEMS Developer from Nairobi, Kenya.
+  ICT Based solutions Provider
   Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 </p>
 
