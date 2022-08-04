@@ -26,11 +26,12 @@
 
 </p>
 
-> ### Django systems Developer. 
+> ### Web Based Systems Developer. 
 > ### I got experience in
 >    -  Python. 
 >    -  Django. 
 >    -  React. 
+>    -  PHP
 >    -  Laravel PHP
 
 
