@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi! There👋 I'm Steve sila 👨‍💻 Web Dev
+  Hi! There👋 I'm Steven sila 👨‍💻 Web Dev
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p align='center'>
