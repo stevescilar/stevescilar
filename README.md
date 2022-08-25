@@ -28,7 +28,7 @@
 </p>
 
 > ### Web Based Systems Developer. 
-> ### I got experience in
+> ### Skilled in -|
 >    -  Python. 
 >    -  Django. 
 >    -  React. 
@@ -36,8 +36,8 @@
 >    -  Laravel PHP
 
 
-> ### I am a minimalist , Lover of H.G 
-> ### I love books and a big fan of literature 
+> ### A minimalist , Lover of H.G 
+> ### A fan of literature 
 
  
 > A good traveler has no fixed plans and is not intent on arriving.
