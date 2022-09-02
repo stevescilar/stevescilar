@@ -24,13 +24,13 @@
 >    -  Laravel 
 >    -  MySql
 
+<hr/>
 
-> ### A minimalist , Lover of H.G 
-> ### A fan of literature 
 
- 
-> A good traveler has no fixed plans and is not intent on arriving.
+```
+ A good traveler has no fixed plans and is not intent on arriving.
   Lao Tzu. 
+ ```
 
 > - 🔭 I’m currently working on something interesting 
 > - 🌱 I’m currently learning ... - Laravel MANSYS
