@@ -1,7 +1,6 @@
 
 <h1 align="center">
-  Hi! There👋 I'm Steven sila 👨‍💻 Web Dev
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi!👋 I'm Stephen Muambi 👨‍💻
 </h1>
 <p align='center'>
   WEB BASED SYSTEMS Developer from Nairobi, Kenya.
@@ -9,23 +8,12 @@
   Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 </p>
 
+<span align='center'>
 
-<p align='center'>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevescilar&count_bg=%23074771&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</p>
-
-
-
-<p align='center'>
-
-## [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
->
-
-[![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
-
-</p>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevescilar&count_bg=%23074771&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
+  
+</span>
+<hr/>
 
 > ### Web Based Systems Developer. 
 > ### Skilled in -|
@@ -50,6 +38,12 @@
 > - i find coding fascinating 
 -----------------------------------------------------------------------------------------------------------------
 ### Stats. 
+<p align='left'>
+
+[![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
+
+</p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&theme=cobalt&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevescilar&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
