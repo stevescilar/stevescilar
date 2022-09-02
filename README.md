@@ -33,7 +33,8 @@
 >    -  Django. 
 >    -  React. 
 >    -  PHP
->    -  Laravel PHP
+>    -  Laravel 
+>    -  MySql
 
 
 > ### A minimalist , Lover of H.G 
@@ -44,7 +45,7 @@
   Lao Tzu. 
 
 > - 🔭 I’m currently working on something interesting 
-> - 🌱 I’m currently learning ... - React Js and Postgre
+> - 🌱 I’m currently learning ... - Laravel MANSYS
 > - 💬 Ask me about ... Web Development & Graphic Design
 > - i find coding fascinating 
 -----------------------------------------------------------------------------------------------------------------
