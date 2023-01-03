@@ -1,4 +1,4 @@
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=stevescilar)](https://git.io/streak-stats)
 <h1 align="center">
   Hi!👋 I'm Stephen Muambi 👨‍💻
 </h1>
@@ -38,6 +38,7 @@
 > - i find coding fascinating 
 -----------------------------------------------------------------------------------------------------------------
 ### Stats. 
+
 <p align='left'>
 
 [![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
