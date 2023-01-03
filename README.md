@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=stevescilar)](https://git.io/streak-stats)
+
 <h1 align="center">
   Hi!👋 I'm Stephen Muambi 👨‍💻
 </h1>
@@ -41,6 +41,9 @@
 
 <p align='left'>
 
+
+
+  
 [![Master_Steve wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve)](https://github.com/stevescilar/stevescilar)
 
 </p>
@@ -49,8 +52,8 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stevescilar&theme=synthwave&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar)](https://github.com/stevescilar/github-readme-stats)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=stevescilar&theme=react-dark)](https://github.com/stevescilar/github-readme-activity-graph)
 
+[![Muambi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=stevescilar&theme=merko)](https://github.com/stevescilar/github-readme-activity-graph)
 
 
 
