@@ -20,7 +20,8 @@
 
 |My github statistics|My languages|Streaks|
 |-|-|-|
-|[![Muambi's github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&show_icons=true&theme=merko&hide_title=true)](https://github.com/stevescilar)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar&show_icons=true&theme=synthwave&layout=compact&hide_title=true)](https://github.com/stevescilar)|![stevescilar](https://github-readme-streak-stats.herokuapp.com/?user=stevescilar&theme=dark)
+|[![Muambi's github stats](https://github-readme-stats.vercel.app/api?username=stevescilar&show_icons=true&theme=merko&hide_title=true)](https://github.com/stevescilar)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar&show_icons=true&theme=synthwave&layout=compact&hide_title=true)](https://github.com/stevescilar)|[![GitHub Streak](https://streak-stats.demolab.com?user=stevescilar&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
 <hr>
 
 <!-- START NEW SECTION -->
