@@ -8,8 +8,10 @@
   Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 </p>
 
-<span align='center'>
+[![trophy](https://github-profile-trophy.vercel.app/?username=stevescilar&theme=onedark)](https://github.com/stevescilar/github-profile-trophy)
 
+<span align='center'>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstevescilar&count_bg=%23074771&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/563ecbb7-89c4-4563-82c1-258e14191d74.svg)](https://wakatime.com/@563ecbb7-89c4-4563-82c1-258e14191d74) 
   
 </span>
