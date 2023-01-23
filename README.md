@@ -7,8 +7,11 @@
   ICT Based solutions Provider
   Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 </p>
+<span align='center'>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=stevescilar&theme=onedark&margin-w=5&column=5&row=1)](https://github.com/stevescilar/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=stevescilar&theme=onedark)](https://github.com/stevescilar/github-profile-trophy)
+</span>
 
 <span align='center'>
   
