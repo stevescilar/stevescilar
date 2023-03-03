@@ -19,7 +19,7 @@
   
 </span>
 
-<!-- START NEW SECTION -->
+<!-- Langs Section -->
 <p align="center">
  <h2 align="center">My Github Stats</h2>
 
