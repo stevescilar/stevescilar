@@ -3,7 +3,7 @@
   Hi!👋 I'm Stephen Muambi 👨‍💻
 </h1>
 <p align='center'>
-  WEB BASED SYSTEMS Developer from Nairobi, Kenya.
+  SYSTEMS Developer from Nairobi, Kenya.
   ICT Based solutions Provider
   Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
 </p>
