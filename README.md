@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  Hi!👋 I'm Stephen Muambi 👨‍💻
+  Hi!👋 I'm Stephen 👨‍💻
 </h1>
 <p align='center'>
   SYSTEMS Developer from Nairobi, Kenya.
