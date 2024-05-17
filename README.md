@@ -3,9 +3,7 @@
   Hi!👋 I'm Stephen 👨‍💻
 </h1>
 <p align='center'>
-  SYSTEMS Developer from Nairobi, Kenya.
-  ICT Based solutions Provider
-  Contact me: +254705549257 or Email me at: stevemuambi@gmail.com
+  📊 Experienced BI Analyst/Data Analyst passionate about transforming raw data into actionable insights that drive business success. With a proven track record of leveraging analytics to optimize processes and inform strategic decision-making, I thrive in dynamic environments where innovation and collaboration are paramount.
 </p>
 <span align='center'>
   
