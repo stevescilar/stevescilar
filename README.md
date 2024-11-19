@@ -3,7 +3,7 @@
   Hi!👋 I'm Stephen 👨‍💻
 </h1>
 <p align='center'>
-  📊 Experienced BI Analyst/Data Analyst passionate about transforming raw data into actionable insights that drive business success. With a proven track record of leveraging analytics to optimize processes and inform strategic decision-making, I thrive in dynamic environments where innovation and collaboration are paramount.
+  📊 Experienced BI Analyst/Data Analyst/ Fullstack Web Dev, I'm passionate about transforming raw data into actionable insights that drive business success. With a proven track record of leveraging analytics to optimize processes and inform strategic decision-making, I thrive in dynamic environments where innovation and collaboration are paramount.
 </p>
 <span align='center'>
   
