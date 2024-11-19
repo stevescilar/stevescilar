@@ -58,8 +58,8 @@ Git Stats🌱 and My Favorite Languages'🔭.
  ```
 
 > - 🔭 I’m currently working on something interesting 
-> - 🌱 I’m currently learning ... - Laravel MANSYS
-> - 💬 Ask me about ... Web Development & Graphic Design
+> - 🌱 I’m currently learning ... - NextJS
+> - 💬 Ask me about ... Web Development , Data Analytics & Graphic Design
 > - i find coding fascinating 
 -----------------------------------------------------------------------------------------------------------------
 
