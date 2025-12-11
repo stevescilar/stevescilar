@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Stephen Muambi
+# 👨‍💻 Stephen Muambi (theT3chGuy)
 
 ### Data Analyst | BI Specialist | Full-Stack Developer
 
@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 ```python
-class DataEngineer:
+class techGuy:
     def __init__(self):
         self.name = "Stephen Muambi"
         self.role = "BI Analyst | Data Analyst | Full-Stack Developer"
@@ -37,7 +37,7 @@ class DataEngineer:
     def say_hello(self):
         print("Thanks for stopping by! Let's build something amazing together! 🚀")
 
-me = DataEngineer()
+me = techGuy()
 me.say_hello()
 ```
 
