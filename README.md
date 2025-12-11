@@ -20,6 +20,7 @@
 class techGuy:
     def __init__(self):
         self.name = "Stephen Muambi"
+        swlf.alias = "TheTechGuy"
         self.role = "BI Analyst | Data Analyst | Full-Stack Developer"
         self.location = "Nairobi, Kenya"
         self.current_focus = ["Laravel Projects", "Next.js", "Data Analytics"]
