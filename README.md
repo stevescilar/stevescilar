@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Stephen Muambi (theT3chGuy)
+# 👨‍💻 Stephen Muambi (TheTechGuy)
 
 ### Data Analyst | BI Specialist | Full-Stack Developer
 
@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 ```python
-class techGuy:
+class TechGuy:
     def __init__(self):
         self.name = "Stephen Muambi"
         self.alias = "TheTechGuy"
@@ -38,7 +38,7 @@ class techGuy:
     def say_hello(self):
         print("Thanks for stopping by! Let's build something amazing together! 🚀")
 
-me = techGuy()
+me = TechGuy()
 me.say_hello()
 ```
 
@@ -164,12 +164,19 @@ graph LR
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=stevescilar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=stevescilar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+<a href="https://github.com/stevescilar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevescilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/stevescilar">
+  <img src="https://github-readme-streak-stats.demolab.com?user=stevescilar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&date_format=M%20j%5B%2C%20Y%5D"/>
+</a>
+
+<a href="https://github.com/stevescilar">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Coding%20Activity"/>
+</a>
 
 </div>
 
@@ -229,7 +236,7 @@ timeline
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2025 Goals
 
 - [ ] Master Laravel advanced patterns & architecture
 - [ ] Build 5 production-ready full-stack applications
