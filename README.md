@@ -185,8 +185,10 @@ graph LR
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=stevescilar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/stevescilar)
+
+<a href="https://github.com/stevescilar">
+  <img src="https://github-profile-trophy.vercel.app/?username=stevescilar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+</a>
 
 </div>
 
@@ -226,8 +228,8 @@ AWS               ██████████░░░░░░░░░░�
 ```mermaid
 timeline
     title Professional Development Journey
-    2018 : WEB development :CMS -  Wordpress
-    2019 : Graphics Design -  UI/ UX
+    2018 : Web Development : CMS - WordPress
+    2019 : Graphics Design : UI/UX
     2020 : Started BI Analytics : Python Fundamentals
     2021 : Advanced Data Visualization : Power BI Mastery
     2022 : Full-Stack Development : Django & React
@@ -238,10 +240,10 @@ timeline
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 2025-2026 Goals
 
-- [X] Master Laravel advanced patterns & architecture
-- [X] Build 5 production-ready full-stack applications
+- [x] Master Laravel advanced patterns & architecture
+- [x] Build 5 production-ready full-stack applications
 - [ ] Contribute to 10 open-source projects
 - [ ] Write 20 technical blog posts
 - [ ] Achieve 1000+ GitHub contributions
@@ -291,6 +293,208 @@ timeline
 *I find coding fascinating and believe the best insights come from data that tells a story!*
 
 ---
+
+</div>
+
+## 📚 Currently Learning
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎯 Laravel API Mastery] --> B[RESTful Design Patterns]
+    A --> C[API Authentication]
+    A --> D[Rate Limiting & Throttling]
+    B --> E[📖 Best Practices]
+    C --> E
+    D --> E
+    E --> F[🚀 Production Ready APIs]
+    
+    style A fill:#FF2D20,stroke:#fff,color:#fff
+    style F fill:#00D9FF,stroke:#fff,color:#000
+```
+
+### Current Focus Areas:
+![Laravel](https://img.shields.io/badge/Laravel_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+**Building:** Scalable, secure, and well-documented Laravel APIs with modern authentication patterns
+
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+<div align="center">
+
+```mermaid
+graph TB
+    A[Current: Laravel API] --> B[Q1: ML Foundations]
+    B --> C[Q2: Supervised Learning]
+    C --> D[Q2-Q3: Deep Learning]
+    D --> E[Q3-Q4: Specialized AI]
+    
+    B --> B1[Statistics & Math]
+    B --> B2[Python for ML]
+    B --> B3[Data Preprocessing]
+    
+    C --> C1[Classification]
+    C --> C2[Regression]
+    C --> C3[Model Evaluation]
+    
+    D --> D1[Neural Networks]
+    D --> D2[CNNs for Vision]
+    D --> D3[RNNs & Transformers]
+    
+    E --> E1[Computer Vision]
+    E --> E2[NLP & LLMs]
+    E --> E3[Recommender Systems]
+    E --> E4[MLOps & Deployment]
+    
+    style A fill:#FF2D20,stroke:#fff,color:#fff
+    style B fill:#00D9FF,stroke:#fff,color:#000
+    style E fill:#4CAF50,stroke:#fff,color:#fff
+```
+
+### 🎯 Machine Learning Journey
+
+| Phase | Focus Area | Key Topics | Status | Target |
+|:---:|:---:|:---:|:---:|:---:|
+| **Phase 1** | ML Foundations | Linear Algebra, Statistics, Python | 🔜 Planning | Q1 2026 |
+| **Phase 2** | Supervised Learning | Classification, Regression, Decision Trees | 📅 Upcoming | Q2 2026 |
+| **Phase 3** | Deep Learning | Neural Networks, CNNs, RNNs | 📅 Upcoming | Q2-Q3 2026|
+| **Phase 4** | Computer Vision | Image Classification, Object Detection | 📅 Upcoming | Q3 2026 |
+| **Phase 5** | NLP & LLMs | Text Processing, Transformers, GPT | 📅 Upcoming | Q3-Q4 2026 |
+| **Phase 6** | MLOps | Model Deployment, Monitoring, Scaling | 📅 Upcoming | Q4 2026 |
+
+#### 🎓 Detailed Learning Path:
+
+<table>
+<tr>
+<td width="33%">
+<h4 align="center">🔢 Foundations</h4>
+<p align="center">
+• Linear Algebra<br>
+• Probability & Statistics<br>
+• Calculus Basics<br>
+• NumPy & Pandas<br>
+• Data Visualization<br>
+• Feature Engineering
+</p>
+</td>
+<td width="33%">
+<h4 align="center">🤖 Core ML</h4>
+<p align="center">
+• Scikit-learn Mastery<br>
+• Supervised Learning<br>
+• Unsupervised Learning<br>
+• Ensemble Methods<br>
+• Model Selection<br>
+• Hyperparameter Tuning
+</p>
+</td>
+<td width="33%">
+<h4 align="center">🧠 Deep Learning</h4>
+<p align="center">
+• TensorFlow & PyTorch<br>
+• Neural Networks<br>
+• CNNs & Image Recognition<br>
+• RNNs & Time Series<br>
+• GANs & Autoencoders<br>
+• Transfer Learning
+</p>
+</td>
+</tr>
+<tr>
+<td width="33%">
+<h4 align="center">👁️ Computer Vision</h4>
+<p align="center">
+• Image Classification<br>
+• Object Detection (YOLO)<br>
+• Semantic Segmentation<br>
+• Face Recognition<br>
+• OCR Systems<br>
+• Video Analysis
+</p>
+</td>
+<td width="33%">
+<h4 align="center">💬 NLP & LLMs</h4>
+<p align="center">
+• Text Preprocessing<br>
+• Sentiment Analysis<br>
+• Named Entity Recognition<br>
+• Transformers & BERT<br>
+• GPT Fine-tuning<br>
+• Chatbot Development
+</p>
+</td>
+<td width="33%">
+<h4 align="center">🚀 MLOps & Production</h4>
+<p align="center">
+• Model Deployment<br>
+• Docker for ML<br>
+• API Integration<br>
+• Model Monitoring<br>
+• A/B Testing<br>
+• Cloud ML (AWS/GCP)
+</p>
+</td>
+</tr>
+</table>
+
+#### 🛠️ Tools & Technologies to Master:
+
+**Core ML & Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+**Deep Learning Frameworks**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**NLP & Transformers**
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+
+**MLOps & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**Development Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🎯 Project Ideas for Each Phase:
+
+1. **ML Foundations**: Housing Price Predictor, Iris Classification
+2. **Supervised Learning**: Credit Card Fraud Detection, Customer Churn Prediction
+3. **Deep Learning**: Handwritten Digit Recognition (MNIST), Image Classifier
+4. **Computer Vision**: Face Mask Detector, License Plate Recognition
+5. **NLP**: Sentiment Analysis Tool, AI Chatbot, Text Summarizer
+6. **End-to-End**: Deploy a Full ML-powered Laravel Application
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 
