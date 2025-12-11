@@ -226,6 +226,8 @@ AWS               ██████████░░░░░░░░░░�
 ```mermaid
 timeline
     title Professional Development Journey
+    2018 : WEB development :CMS -  Wordpress
+    2019 : Graphics Design -  UI/ UX
     2020 : Started BI Analytics : Python Fundamentals
     2021 : Advanced Data Visualization : Power BI Mastery
     2022 : Full-Stack Development : Django & React
@@ -236,10 +238,10 @@ timeline
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
-- [ ] Master Laravel advanced patterns & architecture
-- [ ] Build 5 production-ready full-stack applications
+- [X] Master Laravel advanced patterns & architecture
+- [X] Build 5 production-ready full-stack applications
 - [ ] Contribute to 10 open-source projects
 - [ ] Write 20 technical blog posts
 - [ ] Achieve 1000+ GitHub contributions
