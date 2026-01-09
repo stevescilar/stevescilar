@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Stephen Sila
+# 👨‍💻 Stephen Muambi
 
 ### Data Analyst | BI Specialist | Full-Stack Developer
 
