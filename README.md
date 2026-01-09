@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Stephen Muambi (TheTechGuy)
+# 👨‍💻 Stephen Muambi (SamuraiCod3r)
 
 ### Data Analyst | BI Specialist | Full-Stack Developer
 
@@ -20,7 +20,7 @@
 class TechGuy:
     def __init__(self):
         self.name = "Stephen Muambi"
-        self.alias = "TheTechGuy"
+        self.alias = "SamuraiCod3r"
         self.role = "BI Analyst | Data Analyst | Full-Stack Developer"
         self.location = "Nairobi, Kenya"
         self.current_focus = ["Laravel Projects", "Next.js", "Data Analytics"]
