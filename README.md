@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Stephen Muambi (SamuraiCod3r)
+# 👨‍💻 Stephen Muambi
 
 ### Data Analyst | BI Specialist | Full-Stack Developer
 
