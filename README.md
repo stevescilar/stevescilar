@@ -2,7 +2,7 @@
 
 # 👨‍💻 Stephen (Muambi) Sila
 
-### Data Analyst | BI Specialist | Full-Stack Developer
+### Data Analyst | BI Specialist | Full-Stack Developer(Laravel)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Insights;Building+Intelligent+Solutions;Laravel+%7C+Next.js+%7C+Python;Driving+Business+Success+with+Analytics" alt="Typing SVG" />
 
@@ -20,10 +20,10 @@
 class TechGuy:
     def __init__(self):
         self.name = "Stephen Muambi"
-        self.alias = "SamuraiCod3r"
+        self.alias = "Muambi.Dev"
         self.role = "BI Analyst | Data Analyst | Full-Stack Developer"
         self.location = "Nairobi, Kenya"
-        self.current_focus = ["Laravel Projects", "Next.js", "Data Analytics"]
+        self.current_focus = ["Laravel Projects", "PoweBI DashBoards", "Data Analytics"]
         self.passion = "Transforming raw data into actionable insights"
         
     def get_skills(self):
