@@ -207,34 +207,28 @@ flowchart LR
   <tr>
     <td align="center">
       <a href="https://github.com/stevescilar">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api?username=stevescilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=stevescilar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/stevescilar">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevescilar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/stevescilar">
-        <img height="175em" src="https://github-readme-streak-stats.demolab.com?user=stevescilar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
+        <img height="180" src="https://streak-stats.demolab.com?user=stevescilar&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Streak Stats"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/stevescilar">
-        <img height="175em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Coding%20Activity" alt="WakaTime Activity"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=Master_Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&custom_title=Coding%20Activity" alt="WakaTime Activity"/>
       </a>
     </td>
   </tr>
 </table>
-
-<a href="https://github.com/stevescilar">
-  <img src="https://github-profile-trophy.vercel.app/?username=stevescilar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-</a>
-
-[![Stephen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stevescilar&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9)](https://github.com/stevescilar)
 
 </div>
 
